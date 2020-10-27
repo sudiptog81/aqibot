@@ -1,7 +1,13 @@
-<img src="https://developer.nexmo.com/images/logos/vbc-logo.svg" height="43px" style="margin-right:10px" alt="Vonage" />
-<img src="https://aqicn.org/air/images/aqicnxl.png" height="48px" alt="AQICN" />
+<div style="text-align:center">
+  
+  <p align="middle">
+    <img src="https://developer.nexmo.com/images/logos/vbc-logo.svg" height="43px" style="margin-right:10px" alt="Vonage" />
+    <img src="https://aqicn.org/air/images/aqicnxl.png" height="48px" alt="AQICN" />
+  </p>
 
-[![license](https://img.shields.io/github/license/sudiptog81/vonage-aqi?style=flat-square)](LICENSE.md) ![dependencies](https://img.shields.io/david/sudiptog81/vonaqe-aqi?style=flat-square) ![contributors](https://img.shields.io/github/contributors/sudiptog81/vonage-aqi?style=flat-square)
+  ![license](https://img.shields.io/github/license/sudiptog81/vonage-aqi?style=flat-square) ![dependencies](https://img.shields.io/david/sudiptog81/vonage-aqi?style=flat-square) ![contributors](https://img.shields.io/github/contributors/sudiptog81/vonage-aqi?style=flat-square)
+
+</div>
 
 ## Features
 
