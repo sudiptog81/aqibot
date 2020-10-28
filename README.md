@@ -26,8 +26,9 @@
 * Whitelist a test recipient by following the instructions for the WhatsApp channel and/or the Messenger channel.
 * Note down the API Key and the API Secret as well as the Sandox Numbers and/or the Sandbox IDs.
 * Clone this repository and install the required dependencies.
-* Run the Express Application using `yarn start` and expose it with `ngrok` by executing `ngrok http <application-port>`.
-* Set the Inbound Webhook Endpoint on the Messages API Sandbox.
+* Copy `.env.example` to `.env` and set the required variables.
+* Run the Express Application using `yarn start` and expose the endpoints with a `ngrok` tunnel by executing `ngrok http <application-port>`.
+* Set the Webhook Endpoints on the Messages API Sandbox.
 
 ## License
 
