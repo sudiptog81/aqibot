@@ -1,7 +1,7 @@
 {
-  "name": "vonage-aqi",
+  "name": "discord-aqi",
   "version": "1.0.0",
-  "main": "lib/index.js",
+  "main": "lib/bot.js",
   "license": "MIT",
   "scripts": {
     "start": "node .",
@@ -13,8 +13,8 @@
     "axios": "^0.21.0",
     "commander": "^6.2.0",
     "dedent": "^0.7.0",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1"
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0"
   },
   "devDependencies": {
     "eslint": "^7.12.1",
