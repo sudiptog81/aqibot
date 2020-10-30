@@ -1,4 +1,4 @@
-# Discord Bot Branch
+# AQIBot
 
 ## License
 
